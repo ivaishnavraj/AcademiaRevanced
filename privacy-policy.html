@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy | Academia ReVanced</title>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@700&family=Inter:wght@400;600&display=swap"
+        rel="stylesheet">
+    <style>
+        :root {
+            --blue: #038af3;
+            --black: #1a1a1a;
+            --gray: #f4f4f4;
+            --border-color: #eee;
+            --text-main: #333;
+            --text-muted: #666;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #fafafa;
+            color: var(--black);
+            line-height: 1.6;
+            padding: 40px 20px;
+            display: flex;
+            justify-content: center;
+        }
+
+        .container {
+            max-width: 800px;
+            width: 100%;
+        }
+
+        .policy-panel {
+            background: #fff;
+            border-top: 4px solid var(--blue);
+            border-left: 1px solid var(--border-color);
+            border-right: 1px solid var(--border-color);
+            border-bottom: 1px solid var(--border-color);
+            padding: 40px;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+        }
+
+        header {
+            margin-bottom: 40px;
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 20px;
+        }
+
+        .brand span {
+            display: block;
+            font-size: 14px;
+            color: var(--blue);
+            font-weight: 600;
+            margin-bottom: 4px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        h1 {
+            font-family: 'Space Grotesk', sans-serif;
+            font-size: 32px;
+            line-height: 1.1;
+            margin-bottom: 8px;
+        }
+
+        .subtitle {
+            font-size: 14px;
+            color: var(--text-muted);
+        }
+
+        section {
+            margin-bottom: 32px;
+        }
+
+        section:last-child {
+            margin-bottom: 0;
+        }
+
+        h2 {
+            font-family: 'Space Grotesk', sans-serif;
+            font-size: 18px;
+            margin-bottom: 16px;
+            color: var(--black);
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        h2::before {
+            content: '';
+            display: inline-block;
+            width: 4px;
+            height: 18px;
+            background: var(--blue);
+        }
+
+        p {
+            margin-bottom: 16px;
+            font-size: 15px;
+            color: var(--text-main);
+        }
+
+        ul {
+            list-style: none;
+            margin-bottom: 16px;
+        }
+
+        li {
+            position: relative;
+            padding-left: 20px;
+            margin-bottom: 8px;
+            font-size: 14px;
+            color: var(--text-main);
+        }
+
+        li::before {
+            content: '•';
+            position: absolute;
+            left: 0;
+            color: var(--blue);
+            font-weight: bold;
+        }
+
+        .footer-credit {
+            margin-top: 40px;
+            text-align: right;
+            font-size: 12px;
+            color: var(--blue);
+            font-weight: 600;
+        }
+
+        .footer-credit a {
+            color: inherit;
+            text-decoration: none;
+        }
+
+        .footer-credit a:hover {
+            text-decoration: underline;
+        }
+
+        @media (max-width: 640px) {
+            .policy-panel {
+                padding: 24px;
+            }
+
+            h1 {
+                font-size: 26px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="policy-panel">
+            <header>
+                <div class="brand">
+                    <span>v1.0 Official</span>
+                    <h1>Academia ReVanced</h1>
+                </div>
+                <p class="subtitle">Privacy Policy • Last updated: April 2026</p>
+            </header>
+
+            <main>
+                <section>
+                    <h2>1. Introduction</h2>
+                    <p>Welcome to <strong>Academia ReVanced</strong>. This extension is designed to enhance your
+                        experience on the SRM Academia portal by automating feedback and tracking margins. We take your
+                        privacy seriously.</p>
+                </section>
+
+                <section>
+                    <h2>2. Information Collection</h2>
+                    <p><strong>Academia ReVanced does not collect, store, or transmit any personal data.</strong> All
+                        logic is executed locally within your browser context.</p>
+                    <ul>
+                        <li>No personal identification is gathered.</li>
+                        <li>No browsing data is sent to external servers.</li>
+                        <li>No third-party trackers or analytics are used.</li>
+                    </ul>
+                </section>
+
+                <section>
+                    <h2>3. Local Storage</h2>
+                    <p>The extension uses your browser's local storage solely to store your preferences (such as rating
+                        choices and comments). This data remains on your device and is never shared.</p>
+                </section>
+
+                <section>
+                    <h2>4. Permissions Overview</h2>
+                    <p>The extension requires specific permissions to function correctly:</p>
+                    <ul>
+                        <li><strong>storage:</strong> To remember your auto-fill settings.</li>
+                        <li><strong>activeTab & scripting:</strong> To inject the automation scripts required for the
+                            SRM Academia portal features.</li>
+                    </ul>
+                </section>
+
+                <section>
+                    <h2>5. Security Assurance</h2>
+                    <p>The extension operates as a local layer over the official SRM portal. It does not have access to
+                        your passwords or sensitive personal records beyond what is necessary to interact with the
+                        feedback forms you intentionally navigate to.</p>
+                </section>
+
+                <section>
+                    <h2>6. Contact</h2>
+                    <p>For any inquiries regarding this policy or the extension, please visit our official repository.
+                    </p>
+                </section>
+            </main>
+
+            <div class="footer-credit">
+                @ <a href="https://github.com/ivaishnavraj" target="_blank">ivaishnavraj</a>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
