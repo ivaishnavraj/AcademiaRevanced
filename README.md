@@ -1,5 +1,5 @@
 <!-- Academia ReVanced Banner -->
-<img src="https://github.com/ivaishnavraj/Academia-ReVanced/blob/main/Github%20Preview.png" alt="Academia ReVanced Preview" width="100%">
+<img src="https://github.com/ivaishnavraj/AcademiaReVanced/blob/main/Github%20Preview.png" alt="Academia ReVanced Preview" width="100%">
 
 ## 🎓 Academia ReVanced
 
