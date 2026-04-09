@@ -17,7 +17,7 @@ Academia ReVanced enhances the SRM Academia experience with automation, smarter 
 
 </p>
 
-> *Available in Chrome, Brave, Firefox & Edge Store.*
+> *Available in Chromium-based desktop browsers.*
 ---
 
 ### ✨ Features
