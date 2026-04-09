@@ -7,7 +7,7 @@ Academia ReVanced enhances the SRM Academia experience with automation, smarter 
 
 ---
 
-### 🔹 Get Here - Stable Release (v1.0)
+### 🔹 Get Here - Stable Release (v1.0.1)
 
 <p align="center">
   <!-- Firefox -->
