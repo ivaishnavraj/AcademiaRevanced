@@ -11,9 +11,9 @@ Academia ReVanced enhances the SRM Academia experience with automation, smarter 
 
 <p align="center">
   <!-- Firefox -->
-    <!-- <a href="https://addons.mozilla.org/en-US/firefox/addon/pixterial-tab/"><img src="https://github.com/ivaishnavraj/PixterialTab/blob/main/images/firefox%20downloads.png" alt="Download for Firefox" height="48" /></a> -->
+    <a href="https://chromewebstore.google.com/detail/academia-revanced/kkhjcadiccbncoajcohhndhdiijpgmdj"><img src="ChromeWebStore.png" alt="Download for Chrome" height="48" /></a>
    <!-- <a href="https://github.com/ivaishnavraj/PixterialTab"><img src="https://github.com/ivaishnavraj/PixterialTab/blob/main/images/github.png" alt="Download from GitHub" height="48" /></a> -->
-   <!-- <a href="https://microsoftedge.microsoft.com/addons/detail/pixterial-tab/lkkgedpmgmboiippfjlkfekplhacomag"><img src="https://github.com/ivaishnavraj/PixterialTab/blob/main/images/edge%20downloads.png" alt="Download for Edge" height="48" /></a> -->
+   <!-- <a href="https://chromewebstore.google.com/detail/academia-revanced/kkhjcadiccbncoajcohhndhdiijpgmdj"><img src="https://github.com/ivaishnavraj/AcademiaRevanced/blob/main/EdgeAdd-ons.png" alt="Download for Edge" height="48" /></a> -->
 
 </p>
 
