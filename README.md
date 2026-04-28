@@ -13,7 +13,7 @@ Academia ReVanced enhances the SRM Academia experience with automation, smarter 
   <!-- Firefox -->
     <a href="https://chromewebstore.google.com/detail/academia-revanced/kkhjcadiccbncoajcohhndhdiijpgmdj"><img src="ChromeWebStore.png" alt="Download for Chrome" height="48" /></a>
    <!-- <a href="https://github.com/ivaishnavraj/PixterialTab"><img src="https://github.com/ivaishnavraj/PixterialTab/blob/main/images/github.png" alt="Download from GitHub" height="48" /></a> -->
-   <!-- <a href="https://chromewebstore.google.com/detail/academia-revanced/kkhjcadiccbncoajcohhndhdiijpgmdj"><img src="https://github.com/ivaishnavraj/AcademiaRevanced/blob/main/EdgeAdd-ons.png" alt="Download for Edge" height="48" /></a> -->
+   <a href="https://microsoftedge.microsoft.com/addons/detail/academia-revanced/aimpgooblkfholbbjpdkdlaoeobllklf"><img src="https://github.com/ivaishnavraj/AcademiaRevanced/blob/main/EdgeAdd-ons.png" alt="Download for Edge" height="48" /></a>
 
 </p>
 
