@@ -1,5 +1,5 @@
 <!-- Academia ReVanced Banner -->
-<img src="https://github.com/ivaishnavraj/Academia-ReVanced/blob/main/Github%20Preview.png" alt="Academia ReVanced Preview" width="100%">
+<img src="https://github.com/ivaishnavraj/AcademiaReVanced/blob/main/Github%20Preview.png" alt="Academia ReVanced Preview" width="100%">
 
 ## 🎓 Academia ReVanced
 
@@ -11,9 +11,9 @@ Academia ReVanced enhances the SRM Academia experience with automation, smarter 
 
 <p align="center">
   <!-- Firefox -->
-    <a href="https://chromewebstore.google.com/detail/academia-reVanced/kkhjcadiccbncoajcohhndhdiijpgmdj"><img src="ChromeWebStore.png" alt="Download for Chrome" height="48" /></a>
+    <a href="https://chromewebstore.google.com/detail/academiareVanced/kkhjcadiccbncoajcohhndhdiijpgmdj"><img src="ChromeWebStore.png" alt="Download for Chrome" height="48" /></a>
    <!-- <a href="https://github.com/ivaishnavraj/PixterialTab"><img src="https://github.com/ivaishnavraj/PixterialTab/blob/main/images/github.png" alt="Download from GitHub" height="48" /></a> -->
-   <a href="https://microsoftedge.microsoft.com/addons/detail/academia-reVanced/aimpgooblkfholbbjpdkdlaoeobllklf"><img src="https://github.com/ivaishnavraj/AcademiaRevanced/blob/main/EdgeAdd-ons.png" alt="Download for Edge" height="48" /></a>
+   <a href="https://microsoftedge.microsoft.com/addons/detail/academiareVanced/aimpgooblkfholbbjpdkdlaoeobllklf"><img src="https://github.com/ivaishnavraj/AcademiaRevanced/blob/main/EdgeAdd-ons.png" alt="Download for Edge" height="48" /></a>
 
 </p>
 
