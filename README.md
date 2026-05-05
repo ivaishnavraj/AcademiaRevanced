@@ -1,5 +1,5 @@
 <!-- Academia ReVanced Banner -->
-<img src="https://github.com/ivaishnavraj/AcademiaReVanced/blob/main/Github%20Preview.png" alt="Academia ReVanced Preview" width="100%">
+<img src="https://github.com/ivaishnavraj/Academia-ReVanced/blob/main/Github%20Preview.png" alt="Academia ReVanced Preview" width="100%">
 
 ## 🎓 Academia ReVanced
 
@@ -7,13 +7,13 @@ Academia ReVanced enhances the SRM Academia experience with automation, smarter 
 
 ---
 
-### 🔹 Get Here - Stable Release (v1.0.1)
+### 🔹 Get Here - Stable Release (v1.0.3)
 
 <p align="center">
   <!-- Firefox -->
-    <a href="https://chromewebstore.google.com/detail/academia-revanced/kkhjcadiccbncoajcohhndhdiijpgmdj"><img src="ChromeWebStore.png" alt="Download for Chrome" height="48" /></a>
+    <a href="https://chromewebstore.google.com/detail/academia-reVanced/kkhjcadiccbncoajcohhndhdiijpgmdj"><img src="ChromeWebStore.png" alt="Download for Chrome" height="48" /></a>
    <!-- <a href="https://github.com/ivaishnavraj/PixterialTab"><img src="https://github.com/ivaishnavraj/PixterialTab/blob/main/images/github.png" alt="Download from GitHub" height="48" /></a> -->
-   <a href="https://microsoftedge.microsoft.com/addons/detail/academia-revanced/aimpgooblkfholbbjpdkdlaoeobllklf"><img src="https://github.com/ivaishnavraj/AcademiaRevanced/blob/main/EdgeAdd-ons.png" alt="Download for Edge" height="48" /></a>
+   <a href="https://microsoftedge.microsoft.com/addons/detail/academia-reVanced/aimpgooblkfholbbjpdkdlaoeobllklf"><img src="https://github.com/ivaishnavraj/AcademiaRevanced/blob/main/EdgeAdd-ons.png" alt="Download for Edge" height="48" /></a>
 
 </p>
 
@@ -23,7 +23,7 @@ Academia ReVanced enhances the SRM Academia experience with automation, smarter 
 ### ✨ Features
 
 -  **Auto Feedback Filling**
-- **Marks & Margin Insights**
+- **Marks, Grade & Margin Insights**
   - Highlights **Marks / Total Marks**
   - 🟢 Green → Good performance / Above 75%
   - 🔴 Red → Below 50% Marks and 75% Attendence 
@@ -34,7 +34,8 @@ Academia ReVanced enhances the SRM Academia experience with automation, smarter 
   - Matches SRM Academia layout
 
 - **Privacy First**
-  - No tracking
+  - No Login
+  - No Tracking
   - No external data collection
 
 ---
