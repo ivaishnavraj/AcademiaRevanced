@@ -31,12 +31,10 @@ Academia ReVanced enhances the SRM Academia experience with automation, smarter 
 
 - **🚀 Smart Auto Feedback**
   - Fill all course feedback forms instantly
-  - Customizable default ratings and comments
 
 - **📊 Advanced Academic Insights**
   - Interactive CGPA Calculator
   - Live GPA prediction based on estimated grades
-  - Grade forecasting for O, A+, A and more
   - Real-time Marks Lost Tracker
 
 - **📈 Marks & Margin Insights**
@@ -65,9 +63,7 @@ Academia ReVanced enhances the SRM Academia experience with automation, smarter 
   - No external data collection
   - Everything runs locally in your browser
 
----
 
-> *Skip the Feedback. Track the Margin.*
 
 
 ## 🔏 Privacy Policy
