@@ -1,7 +1,7 @@
 <!-- Academia ReVanced Banner -->
 <img src="https://github.com/ivaishnavraj/AcademiaRevanced/blob/main/Github%20Preview.png" alt="Academia ReVanced Preview" width="100%">
 
-## 🎓 Academia ReVanced
+## 🎓 Academia ReVanced (Will Make Source Code Public After My Graduation - May 2027)
 
 Academia ReVanced enhances the SRM Academia experience with automation, smarter insights, and a clean, minimal UI.
 
